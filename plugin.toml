@@ -1,0 +1,8 @@
+name = "Example Plugin"
+version = "0.1.0"
+categories = []
+git_repo = "rhaskia/PreTTYExamplePlugin"
+js_files = ["script.js"]
+css_files = ["style.css"]
+palette_files = ["palette.toml"]
+desc = "An example plugin"
