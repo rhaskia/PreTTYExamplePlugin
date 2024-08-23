@@ -1,2 +1,2 @@
 This is an example plugin for the [PreTTY terminal emulator](https://github.com/rhaskia/preTTY). These allow you to inject CSS, javascript, palettes and more into the terminal emulator for endless customization.
-To make a plugin of your own, duplicate this repository and start working away. To run the plugin, place it in {your_systems_config_dir}/prettyterm/plugins/{your_plugin}, and rerun PreTTY.
+To make a plugin of your own, duplicate this repository and start working away. To run the plugin, place it in {your-systems-config-dir}/prettyterm/plugins/{your-plugin}, and rerun PreTTY.
